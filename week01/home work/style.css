@@ -1,0 +1,35 @@
+body {
+	background-color: #F6F6F6;
+	text-decoration-color: #05080C;
+	font-size: 18px;
+	line-height: 1.5;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+}
+
+article {
+	margin: 0 3em;
+}
+
+p {
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+img {
+	float: right;
+	margin-left: 20px;
+}
+
+th {
+	background-color: #222222;
+	color: white;
+	padding: 5px 10px;
+}
+
+td {
+	background-color: #eeeeee;
+	padding: 5px 10px;
+}
+table {
+	empty-cells: show;
+}
