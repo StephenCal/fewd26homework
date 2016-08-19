@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+
+.wrapper {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.box {
+	background: #EEE;
+	border: 1px solid grey;
+	padding: 40px;
+}
+
+.hdr,
+.content_area,
+.ftr {
+	width: 100%;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.hdr,
+.ftr {
+	height: 150px;
+}
+
+.content_left,
+.content_right {
+	height: 500px;
+}
+
+.content_left {
+	width: 790px;
+	margin-right: 20px;
+	float: left;
+}
+
+.content_right {
+	width: 390px;
+	margin-right: 0;
+	float: left;
+}
